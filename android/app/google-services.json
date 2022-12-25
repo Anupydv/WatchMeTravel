@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746467374720",
+    "project_id": "watch-me-travel",
+    "storage_bucket": "watch-me-travel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746467374720:android:db1c4d28af35c1a69a9865",
+        "android_client_info": {
+          "package_name": "com.example.watch_me_travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746467374720-ia182aigpmu3g1208ml423urbbgj54bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE6SNzvN7_uyUPfm9eU_-s9jQG6YJXkFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746467374720-ia182aigpmu3g1208ml423urbbgj54bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
